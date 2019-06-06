@@ -33,6 +33,14 @@ const languages = [
         name: 'pt',
         displayName: 'Português'
     },
+	{
+        name: 'cn',
+        displayName: 'Chinese-Simplified'
+    },
+	{
+        name: 'zh',
+        displayName: 'Chinese-Traditional'
+    },
 ];
 
 export class Languages {
